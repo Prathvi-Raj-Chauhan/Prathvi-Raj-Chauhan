@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Prathvi Raj Chauhan<br><br>I'm a Software Engineer building reliable, scalable, and well-crafted software.<br><br>Tech Stack<br><br>Languages - Dart, Java, Python, C<br>Frameworks - Node js, Flutter, Spring<br>Tools and Platforms - AWS, Android Studio<br>
+Hi, I'm Prathvi Raj Chauhan<br><br>I'm a Software Engineer building reliable, scalable, and well-crafted software.<br><br>Tech Stack<br><br>Languages - Dart, Java, Python, C<br>Frameworks - Node js, Flutter, Spring, Fast api, RAG, Langchain<br>Tools and Platforms - AWS, Android Studio<br>
 
 
 ## 🌐 Socials:
