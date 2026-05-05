@@ -1,4 +1,4 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/lightning.gif" height="30px" width="30px"> I'm Prathvi Raj Chauhan</h1>
+<h1 align="center">Hey, I'm Prathvi Raj Chauhan</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center">
@@ -88,9 +88,5 @@
 
 ![Top language](https://stats.pphat.top/languages?username=Prathvi-Raj-Chauhan)
 <br/>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
 
 
